@@ -1,4 +1,7 @@
-#App
+# Setup
+
+# App
+
 GymPass style app.
 
 ## RFs (Requisitos funcionais)
@@ -29,3 +32,7 @@ GymPass style app.
 - [] Os dados da aplicação precisam estar persistidos em um banco PostgreSQL;
 - [] Todas lista de dados precisam estar paginadas com 20 items por página;
 - [] O usuário deve ser identificado por um JWT (JSON Web Token);
+
+```
+
+```
